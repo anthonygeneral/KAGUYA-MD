@@ -22,9 +22,9 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281285866502', '6281398003097']
-global.botname = 'BAYUBOT-MD'
-global.ownername = 'BAYU OFC'
+global.owner = ['62895338334450', '62895338334350']
+global.botname = 'V7 Yuuzy_'
+global.ownername = 'Yuuzy OFC'
 global.packname = 'BAYUBOT-MD'
 global.author = 'CREATED BY BAYU OFC'
 global.sessionName = 'session'
